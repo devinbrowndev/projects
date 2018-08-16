@@ -29,7 +29,7 @@ movies <- data.frame(titleVal,ratingVal, movieYear)
 
 
 #simple EDA
-?hist
+
 #histogram of rating freq
 hist(ratingVal, xlab = 'Ratings', main = 'Ratings of top 250 movies of all time (IMDB)', col='lightblue')
 #We see here that there are many more movies with a rating of 8.0 than any other rating > 8.0 and extremely few with ratings above 8.6
