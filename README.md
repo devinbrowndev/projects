@@ -8,3 +8,5 @@ This repository contains school/personal coding projects.
 3-bootstrappingEx.R is a simple boostrap sampling example using the trees data set in R.
 
 4-imdbWebScraping.R is another IMDB scraping exercise this time in R and with a short exploratory data analysis following the web scraping.
+
+5-extractor_status.sh is a Bash script used to determine when required files for modeling are populated.
