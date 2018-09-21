@@ -11,4 +11,4 @@ This repository contains school/personal coding projects.
 
 5-extractor_status.sh is a Bash script used to determine when required files for modeling are populated.
 
-6-extraction_automation.py is a python script to improve on the previous shell script. This script automates the process of checking table existence for modeling process to proceed smoothly.
+6-extraction_automation.py is a python script to improve on the previous shell script. This dynamic script automates the process of checking table existence for modeling process for each company and data pull type.
