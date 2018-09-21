@@ -10,3 +10,5 @@ This repository contains school/personal coding projects.
 4-imdbWebScraping.R is another IMDB scraping exercise this time in R and with a short exploratory data analysis following the web scraping.
 
 5-extractor_status.sh is a Bash script used to determine when required files for modeling are populated.
+
+6-extraction_automation.py is a python script to improve on the previous shell script. This script automates the process of checking table existence for modeling process to proceed smoothly.
