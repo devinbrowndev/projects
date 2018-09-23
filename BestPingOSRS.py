@@ -1,15 +1,5 @@
-
-# coding: utf-8
-
-# In[148]:
-
-
 import subprocess
 import string
-
-
-# In[149]:
-
 
 #worlds to check (only used the US worlds)
 world_numbers = [
@@ -58,9 +48,6 @@ for world in world_numbers:
     world_bashes.append(latency)
 
 
-# In[154]:
-
-
 #parsing function
 def parse_ping(latency):
     avg_ping = float(latency[7].decode('utf-8').split('/')[4])
@@ -74,4 +61,3 @@ for bash_output in world_bashes:
         print('The ping of world ' + world_numbers[i] + ' is:')
         print(present_ping)
     i+=1
-
