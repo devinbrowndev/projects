@@ -12,3 +12,5 @@ This repository contains school/personal coding projects.
 5-extractor_status.sh is a Bash script used to determine when required files for modeling are populated.
 
 6-extraction_automation.py is a python script to improve on the previous shell script. This dynamic script automates the process of checking table existence for modeling process for each company and data pull type.
+
+7-BestPingOSRS.py is a python script I wrote to find the servers with the best ping for the US-based Oldschool Runescape servers. The script will return the servers to play on that are under a certain ping criteria. No more lag :)
